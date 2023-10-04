@@ -1,0 +1,54 @@
+* Research
+** MSC Thesis
+*** Monoidal Topology on Linear Bicategories
+- Abstract :: Extending endofunctors on the category of sets and
+  functions to the category of sets and relations requires one to
+  introduce a certain amount of laxness. This in turn requires us to
+  consider bicategories rather than ordinary categories. The subject
+  of lax extensions of Set-based functors is one of the fundamental
+  components of monoidal topology, an active area of research in
+  categorical algebra. The recent theory of linear bicategories, due
+  to Cockett, Koslowski and Seely, is an extension of the usual notion
+  of bicategory to include a second composition in a way analogous to
+  the two connectives of multiplicative linear logic. It turns out
+  that the category of sets and relations has a second composition
+  making it a linear bicategory. The goal of this thesis is first to
+  define the notion of lax extension of Set-based functors to linear
+  bicategories, and then demonstrate crucial properties of our
+  definition.
+2023, http://hdl.handle.net/10393/45495
+
+** Talks
+*** Monoidal Topology and Enriched Categories
+- Abstract :: Category theory provides more than a general theory for
+  mathematics. While the familiar mathematical objects such as sets,
+  groups, and topological spaces each have categorical
+  reaxiomatizations, fundamental aspects of reality such as order,
+  metric, and topology, as well as their structures, are
+  themselves categorical in nature and may be generalized in a single
+  unifying framework. This framework, descending from the research of
+  Manes, Barr, and Lawvere of the late 60s and early 70s forms the
+  heart of the modern theory of monoidal topology as presented in the
+  book by Hoffman, Seal, and Tholen. In this talk we will highlight the
+  main elements of this theory, including monoids, enriched categories,
+  and categories of generalized relations, and outline the central
+  unifying framework of monoidal topology comprising the categories of
+  lax algebras with respect to a chosen monad and a fixed lax
+  extension of monads.
+/uOttawa. August, 2023. Whiteboard talk./
+*** Master's Oral Defence
+/uOttawa. June 2023. Slides./
+*** Monoidal Topology on Linear Bicategories
+- Abstract :: An integral step in the generation of lax algebras in
+  the setting of monoidal topology is the lax extension of Set
+  functors and monads to lax functors and lax monads on Q-Rel, where Q
+  is a quantale. In the case of locally posetal linear bicategories, a
+  linear functor is a pair consisting of a lax functor and an oplax
+  functor satisfying 4 linear strengths. Analogous to lax extension,
+  we define linear extension of Set functors to linear functors on
+  Q-Rel, where Q is a Girard quantale. Next, we define the linear Barr
+  extension, which we will use to generate exciting new examples of
+  linear functors on Rel, such as the linear ultrafilter functor.
+
+/FMCS Workshops 2022. [[https://pages.cpsc.ucalgary.ca/~robin/FMCS/FMCS2022/slides/Thomas.pdf][Slides]]./
+

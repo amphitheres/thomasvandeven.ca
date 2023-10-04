@@ -1,0 +1,13 @@
+* Thomasvandeven.ca
+
+This is the code I use to run my professional websit written using Emacs [[https://orgmode.org/][Org mode]].
+
+** Compile
+
+In order to build my website, download and install [[https://www.gnu.org/software/emacs/download.html][Emacs]] and [[https://orgmode.org/org.html#Installation][Org
+mode]]. Open `site.org` with Emacs, and with Org mode active, run `C-c
+C-e h o` and open the output `site.html` file in your browser.
+
+
+
+
